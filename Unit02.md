@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH409 - Roman Architecture"
+course: ARTH409
+course_fulltitle: "Roman Architecture"
+course_description: "Detailed study of the architecture of Ancient Rome, beginning with its origins in the eighth century BC, and continuing through the Roman capital’s move to Constantinople in the fourth century AD. This course will explore the major architectural influences, building methods and styles of the Roman Empire."
+---
 **Unit 2: Architecture of Later Rome and the Provinces** <span
 id="2"></span> 
 The second half of this course looks at later Rome, beginning with the
