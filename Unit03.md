@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH409 - Roman Architecture"
-course: ARTH409
-course_fulltitle: "Roman Architecture"
-course_description: "Detailed study of the architecture of Ancient Rome, beginning with its origins in the eighth century BC, and continuing through the Roman capital’s move to Constantinople in the fourth century AD. This course will explore the major architectural influences, building methods and styles of the Roman Empire."
+title: "ARTH409: Roman Architecture"
+course_description: "A detailed study of the architecture of Ancient Rome, beginning with its origins in the eighth century BC, and continuing through the Roman capital’s move to Constantinople in the fourth century AD. This course will explore the major architectural influences, building methods and styles of the Roman Empire."
+next: ../../../
+previous: ../Unit02
+bgimage: arth409.jpg
 ---
 **Unit 3: Final Exam** <span id="3"></span> 
 -   **Final Exam: The Saylor Foundation's "ARTH409 Final Exam"**
