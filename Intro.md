@@ -141,3 +141,4 @@ images also can be easily located in a Google search.
 - [Unit 1](https://legacy.saylor.org/arth409/Unit01/)
 - [Unit 2](https://legacy.saylor.org/arth409/Unit02/)
 - [Unit 3](https://legacy.saylor.org/arth409/Unit03/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH409/ARTH409-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH409/ARTH409-FinalExam-Answers.html)
