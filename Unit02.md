@@ -152,12 +152,12 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Assessment: The Saylor Foundation’s "ARTH409 Assessment 2.2"**
     Link: The Saylor Foundation’s [ARTH409 Assessment
-    2.2](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH409-Assessment-2-2.pdf) (PDF)  
+    2.2](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH409-Assessment-2-2.pdf) (PDF)  
         
      Instructions:  Please complete the linked assessment above.  When
     you have finished, check your work against The Saylor Foundation's
     "[Guide for Responding to Assessment
-    2.2](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH409-GTR-Assessment-2-2.pdf)"
+    2.2](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH409-GTR-Assessment-2-2.pdf)"
     (PDF).
 
 **2.3 Ostia, Port of Rome** <span id="2.3"></span> 
@@ -206,14 +206,14 @@ Upon successful completion of this unit, students will be able to:
 -   **Assessment: The Saylor Foundation's "Quiz: Rome through the Third
     Century"**
     Link: The Saylor Foundation's "[Quiz: Rome through the Third
-    Century](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH409-Rome-Through-the-Third-Century-Quiz-2.3-FINAL.pdf)"
+    Century](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Rome-Through-the-Third-Century-Quiz-2.3-FINAL.pdf)"
     (PDF)  
         
      Instructions: Click on the link above to complete a brief quiz that
     will test your knowledge of the material covered in this course from
     subunit 1.5 through 2.3.  You can check your answers with The Saylor
     Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH409-Rome-Through-the-Third-Century-Answer-Key-2.3-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Rome-Through-the-Third-Century-Answer-Key-2.3-FINAL.pdf)”
     (PDF).
 
 **2.4 Second and Third Century Rome** <span id="2.4"></span> 
@@ -496,14 +496,14 @@ Upon successful completion of this unit, students will be able to:
     Other Architectural Monument"**
     Link: The Saylor Foundation's "[Commission a Building or Other
     Architectural
-    Monument](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH409-Commission-a-Building-Assessment-2.9-FINAL.pdf)"
+    Monument](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Commission-a-Building-Assessment-2.9-FINAL.pdf)"
     (PDF)  
         
      Instructions: Click on the link above to review detailed
     instructions for completing a creative essay assignment that
     utilizes the knowledge you have acquired so far in this course.  You
     can check your answers with The Saylor Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH409-Commission-a-Building-Guide-to-Responding-2.9-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Commission-a-Building-Guide-to-Responding-2.9-FINAL.pdf)”
     (PDF).
 
 **2.10 Rome under Constantine** <span id="2.10"></span> 
