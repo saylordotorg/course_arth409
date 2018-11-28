@@ -191,14 +191,14 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Assessment: The Saylor Foundation's "Quiz: Early Ancient Rome"**
     Link: The Saylor Foundation's "[Quiz: Early Ancient
-    Rome](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Early-Ancient-Rome-Quiz-1.3-FINAL.pdf)"
+    Rome](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH409-Early-Ancient-Rome-Quiz-1.3-FINAL.pdf)"
     (PDF)  
         
      Instructions: Click on the link above and complete this
     short-answer quiz that will test your knowledge of the material
     covered to-date in this course.  You can check your answers with The
     Saylor Foundation’s “[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Early-Ancient-Rome-Answer-Key-1.3-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH409-Early-Ancient-Rome-Answer-Key-1.3-FINAL.pdf)”
     (PDF).
 
 **1.4 Pompeii and Herculaneum** <span id="1.4"></span> 
@@ -384,14 +384,14 @@ id="1.4.5"></span> 
 -   **Assessment: The Saylor Foundation's "Matching Quiz: Roman Wall
     Painting"**
     Link: The Saylor Foundation's "[Matching Quiz: Roman Wall
-    Painting](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Roman-Wall-Painting-Quiz-1.4-FINAL.pdf)"
+    Painting](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH409-Roman-Wall-Painting-Quiz-1.4-FINAL.pdf)"
     (PDF)  
         
      Instructions: Click on the link above to complete a brief matching
     quiz that will test your understanding of the different styles of
     Roman wall painting, as taught in subunit 1.4 on Pompeii.  You can
     check your answers with The Saylor Foundation’s “[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH409-Roman-Wall-Painting-Answer-Key-1.4-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH409-Roman-Wall-Painting-Answer-Key-1.4-FINAL.pdf)”
     (PDF).
 
 **1.5 Augustan Rome** <span id="1.5"></span> 
